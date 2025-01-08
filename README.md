@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left">Here are a few of the projects I’ve worked on:<br>- 🌐 **[Raw JavaScript Project](https://github.com/rejaulvoice18/peddy-adoption)**<br>- 🛒 **[Sports Equipment Full Stack Project](https://github.com/rejaulvoice18/equisports-lisboa-client)**<br>- 📚 **[Online language tutor Full Stack Project](https://github.com/rejaulvoice18/e-tutor-client)**</p>
+<p align="left">Here are a few of the projects I’ve worked on:<br>- 🌐 **[Raw JavaScript Project](https://github.com/rejaulvoice18/peddy-adoption)<br>- 🛒 **[Sports Equipment Full Stack Project](https://github.com/rejaulvoice18/equisports-lisboa-client)<br>- 📚 **[Online language tutor Full Stack Project](https://github.com/rejaulvoice18/e-tutor-client)</p>
 
 ###
 
