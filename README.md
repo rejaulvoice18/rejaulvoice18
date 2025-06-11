@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Here's a bit about me:<br><br>- 💻 **Tech Stack**: <br>  - Frontend: **React.js**, **JavaScript**, **Tailwind CSS**, **Daisy UI**, **ChadCN**<br>  - Backend: **Node.js**, **Express.js**<br>  - Database: **MongoDB**<br>  - Currently learning: **TypeScript**, **Next.js**<br>- 🌟 I enjoy turning complex problems into elegant solutions and always strive to improve my skills and knowledge.<br>- 🌍 Open to collaborating on exciting web development projects.</p>
+<p align="left">Here's a bit about me:<br><br>- 💻 **Tech Stack**: <br>  - Frontend: **React.js**, **Next.js**, **JavaScript**, **TypeScript**,  **Tailwind CSS**, **Daisy UI**, **ChadCN**<br>  - Backend: **Node.js**, **Express.js**<br>  - Database: **MongoDB**, **Sql**, **MySql**,<br> 🌟 I enjoy turning complex problems into elegant solutions and always strive to improve my skills and knowledge.<br>- 🌍 Open to collaborating on exciting web development projects.</p>
 
 ###
 
