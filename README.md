@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="600" src="https://i.ibb.co/5g20GbyH/last-one.png"  />
+  <img height="200"  src="https://i.ibb.co/5hpg84P6/Black-and-White-Minimalist-Personal-Profile-Linked-In-Banner.png"  />
 </div>
 
 ###
